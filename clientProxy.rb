@@ -9,9 +9,9 @@ class ClientProxy
     @users=Hash.new
     @users["lawlorni"] = "abc123"
     @users["niamh"] = "happy"
-    @users["gary"] = "ruby"
-    @users["louise"] = "loulou"
-    @users["charlie"] = "chicken"
+    @users["siobhan"] = "ruby"
+    @users["kurt"] = "nomad"
+    @users["ana"] = "djaklsdj"
     @sessionKey="0"
     @dirLocation ="/Users/lawlorni/Desktop/College/DistributedSystems/Labs/FinalProj/ClientFiles/"
   end
